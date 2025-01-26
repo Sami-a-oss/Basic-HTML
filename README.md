@@ -1,2 +1,2 @@
 # Basic-HTML
-This my first HTML code.
+This is my first HTML code.
